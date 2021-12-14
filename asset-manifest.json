@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kevinsagitass/ChatHub/static/css/main.ea6dc293.chunk.css",
+    "main.js": "/kevinsagitass/ChatHub/static/js/main.4f26167e.chunk.js",
+    "main.js.map": "/kevinsagitass/ChatHub/static/js/main.4f26167e.chunk.js.map",
+    "runtime-main.js": "/kevinsagitass/ChatHub/static/js/runtime-main.05b8e48e.js",
+    "runtime-main.js.map": "/kevinsagitass/ChatHub/static/js/runtime-main.05b8e48e.js.map",
+    "static/js/2.6ee8869e.chunk.js": "/kevinsagitass/ChatHub/static/js/2.6ee8869e.chunk.js",
+    "static/js/2.6ee8869e.chunk.js.map": "/kevinsagitass/ChatHub/static/js/2.6ee8869e.chunk.js.map",
+    "index.html": "/kevinsagitass/ChatHub/index.html",
+    "static/css/main.ea6dc293.chunk.css.map": "/kevinsagitass/ChatHub/static/css/main.ea6dc293.chunk.css.map",
+    "static/js/2.6ee8869e.chunk.js.LICENSE.txt": "/kevinsagitass/ChatHub/static/js/2.6ee8869e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05b8e48e.js",
+    "static/js/2.6ee8869e.chunk.js",
+    "static/css/main.ea6dc293.chunk.css",
+    "static/js/main.4f26167e.chunk.js"
+  ]
+}
